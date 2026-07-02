@@ -1,5 +1,5 @@
-# Ћабораторна€ работа CI/CD Pipeline with GitHub Actions and ArgoCD 
-по настройке полного CI/CD цикла дл€ Cloud-native приложени€ с использованием:
+# Ћабораторна€ работа 9. ѕриложение и CI/CD-пайплайн/
+Ќастройка полного CI/CD цикла дл€ Cloud-native приложени€ с использованием:
 - **GitHub Actions** - дл€ непрерывной интеграции (CI) и доставки (CD)
 - **Docker Hub** - хранилище контейнерных образов
 - **Kubernetes (Minikube)** - оркестраци€ контейнеров
@@ -44,7 +44,7 @@ L-- README.md
 
 ¬ репозитории GitHub настроить Secrets (Settings > Secrets and variables > Actions):
 
-- `DOCKER_USERNAME` - ваш логин Docker Hub
+- `DOCKER_USERNAME` - логин Docker Hub
 - `DOCKER_TOKEN` - Personal Access Token Docker Hub
 
 ### Ћокальный запуск приложени€

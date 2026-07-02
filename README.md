@@ -1,9 +1,5 @@
-
-# Lab 9: CI/CD Pipeline with GitHub Actions and ArgoCD
-
-##  Описание проекта
-
-Лабораторная работа по настройке полного CI/CD цикла для Cloud-native приложения с использованием:
+# Лабораторная работа CI/CD Pipeline with GitHub Actions and ArgoCD 
+по настройке полного CI/CD цикла для Cloud-native приложения с использованием:
 - **GitHub Actions** - для непрерывной интеграции (CI) и доставки (CD)
 - **Docker Hub** - хранилище контейнерных образов
 - **Kubernetes (Minikube)** - оркестрация контейнеров

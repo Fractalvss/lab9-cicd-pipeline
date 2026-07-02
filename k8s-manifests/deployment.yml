@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: lab9-server
-        image: Fractalvss/lab9-app:latest
+        image: fractalvss/lab9-app:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8000
